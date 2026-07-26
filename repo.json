@@ -85,5 +85,9 @@
     "templates": [],
     "repos": [],
     "overlays": []
+  },
+  "source_control": {
+    "git": "https://github.com/accesspointmg/o3de-videoplaybackframework.git",
+    "branch": "2.0.0"
   }
 }

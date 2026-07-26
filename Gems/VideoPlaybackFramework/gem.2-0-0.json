@@ -103,5 +103,16 @@
     "Rendering",
     "org.o3de.gem.videoplaybackframework",
     "Framework"
+  ],
+  "releases": [
+    {
+      "name": "2607.0",
+      "source_controls": [
+        {
+          "git": "https://github.com/accesspointmg/o3de-videoplaybackframework.git",
+          "tag": "2607.0"
+        }
+      ]
+    }
   ]
 }
